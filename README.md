@@ -1,2 +1,2 @@
-# To-do-list-app
+# To-do-list
 streamlit to do list 생성
