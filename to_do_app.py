@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 
-st.title('📆 나의 할일 목록'
+st.title('📝 나의 할일 목록'
 , anchor='title-section',
 help="anchor 존재")
 # st.markdown("# 📆 나의 할일 목록")
